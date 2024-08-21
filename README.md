@@ -24,8 +24,3 @@ The data used in this project is sourced from:
 - Music charts for artist identification. (https://charts.spotify.com/charts/view/artist-global-weekly/latest, https://charts.youtube.com/charts/TopArtists/global/weekly)
 - YouTube and Spotify for popularity metrics and user comments.
 
-
-## Author
-Cara Grimm
-
-Final Project for Social Media Data Analysis (SS 2024)
