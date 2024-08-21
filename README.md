@@ -1,5 +1,6 @@
 # SMDA-Project: Gender differences among popular Musicians on YouTube and Spotify
 Author: Cara Grimm
+
 Course: Social Media Data Analysis (SS 2024)
 
 ## Project Overview
@@ -26,4 +27,5 @@ The data used in this project is sourced from:
 
 ## Author
 Cara Grimm
+
 Final Project for Social Media Data Analysis (SS 2024)
