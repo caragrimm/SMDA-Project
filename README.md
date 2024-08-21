@@ -23,6 +23,6 @@ The data used in this project is sourced from:
 - YouTube and Spotify for popularity metrics and user comments.
 
 
-Author
+## Author
 Cara Grimm
 Final Project for Social Media Data Analysis (SS 2024)
