@@ -8,6 +8,7 @@ This project investigates gender differences among musicians by analyzing data f
 
 
 ## Repository Structure
+The project report can be found here: SMDA_Project_Report_Cara_Grimm.pdf
 The project data and outputs are organized into the following folders:
 - charts_data: Contains the charts used to identify the top artists for analysis.
 - top_artists: Includes data related to the identified top artists.
